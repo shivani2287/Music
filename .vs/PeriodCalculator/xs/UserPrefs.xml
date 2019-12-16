@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1CEBE0B0-EA90-40AE-95BF-3B2742661D45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PeriodCalculator/Controllers/GenresController.cs">
+    <Files>
+      <File FileName="PeriodCalculator/Controllers/GenresController.cs" Line="149" Column="47" />
+      <File FileName="PeriodCalculator/Controllers/ArtistsController.cs" Line="149" Column="49" />
+      <File FileName="PeriodCalculator/Models/Genres.cs" Line="13" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PeriodCalculator" expanded="True">
+            <Node name="PeriodCalculator" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Artists" expanded="True" />
+                <Node name="Shared" expanded="True" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="jquery-ui-1.12.1" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PeriodCalculator PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
