@@ -26,7 +26,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="3.0.1" />
     <PackageReference Include="Bootstrap.Datepicker" Version="1.8.0.1" />
     <PackageReference Include="jQuery.UI.Widgets.Datepicker" Version="1.8.9" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Models\DbContext.cs" />
